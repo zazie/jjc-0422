@@ -14,4 +14,4 @@ var animals = [
 for文、if文を使います。  
 
 # 解答例
-[解答例はこちら](http://codepen.io/anon/pen/eNOqYP)
+[解答例はこちら](http://codepen.io/anon/pen/xGxRaL)
