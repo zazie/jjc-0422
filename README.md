@@ -11,8 +11,7 @@ var animals = [
 ```
 
 # ヒント
-for in文、if文、break文を使います。  
-break文はループを終了させる時に使います。
+for文、if文を使います。  
 
 # 解答例
 [解答例はこちら](http://codepen.io/anon/pen/eNOqYP)
